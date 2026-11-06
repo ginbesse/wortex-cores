@@ -1,0 +1,14 @@
+{
+  "name": "nova-omniverse-ai",
+  "version": "1.0.0",
+  "private": true,
+  "description": "NOVA OMNIVERSE AI - Intelligent Analysis and Simulation Platform",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
